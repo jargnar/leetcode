@@ -1,4 +1,4 @@
-Solutions for Leetcode DP problems:
+Solutions for Leetcode DP problems
 ---
 
 https://leetcode.com/tag/dynamic-programming/
